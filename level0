@@ -1,0 +1,17 @@
+#Login
+#Create a password
+#confirm the password
+
+#enter to the terminal 
+#insert the link (ssh -p 1919 mihago@warchall.net)
+
+#insert the password;
+
+#Idents I used:
+#ls  
+#cat WELCOME.md  
+#cd /home/level/ 
+#ls 
+#cd 00_welcome/ 
+#ls 
+#cat README.md
